@@ -11,7 +11,7 @@ const path = require("path");
 
 // const base_url = "http://localhost:3000";
 //const base_url = "http://node57029-parsinee-noderest.proen.app.ruk-com.cloud";
-const base_url = "http://node57019-parsinee-noderest.proen.app.ruk-com.cloud";
+const base_url = "http://node57029-parsinee-noderest.proen.app.ruk-com.cloud";
 
 
 
