@@ -4,9 +4,11 @@ const app = express();
 var bodyParser = require('body-parser');
 const path = require("path");
 
-//const base_url = "http://localhost:3000";
+// const base_url = "http://localhost:3000";
 //const base_url = "http://10.104.16.198:3000";
-const base_url = "http://node57045-kittipong-noderest.proen.app.ruk-com.cloud";
+// const base_url = "http://node57020-parsinee-noderest.proen.app.ruk-com.cloud";
+const base_url = "http://node57029-parsinee-noderest.proen.app.ruk-com.cloud";
+// node57029-parsinee-noderest.proen.app.ruk-com.cloud:11676
 
 app.set("views", path.join(__dirname, "/public/views"));
 app.set('view engine', 'ejs');
